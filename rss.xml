@@ -2,15 +2,15 @@
 <rss version="2.0">
     <channel>
         <title>DevOps随想录</title>
-        <link>http://opslog.cn</link>
+        <link>http://www.opslog.cn</link>
         <description>分享DevOps相关的技术实践</description>
         <language>zh-CN</language>
         <pubDate>Sat, 22 Mar 2025 16:26:48 +0800</pubDate>
         <lastBuildDate>Sat, 22 Mar 2025 16:26:48 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://opslog.cn/posts/1243066710.html</guid>
+            <guid isPermalink="true">http://www.opslog.cn/posts/1243066710.html</guid>
             <title>Hello World</title>
-            <link>http://opslog.cn/posts/1243066710.html</link>
+            <link>http://www.opslog.cn/posts/1243066710.html</link>
             <pubDate>Sat, 22 Mar 2025 16:26:48 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
